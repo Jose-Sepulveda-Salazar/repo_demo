@@ -1,2 +1,2 @@
 # repo_demo
-repositorio de clase minor
+clase para entender como usar git.
